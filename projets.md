@@ -1,14 +1,16 @@
-![image dev](https://img.freepik.com/vecteurs-libre/site-web-developpement-web-ingenierie-programmation-codage-ecrans-interface-realite-augmentee-logiciel-programmation-ingenieur-projet-developpeur-conception-application-illustration-dessin-anime_107791-3863.jpg?w=1380&t=st=1695030683~exp=1695031283~hmac=9df27083fdf3a5e8569f12dd9f88e00811bd4e0c176f82903ff35d847d4e5cd3)
+![banniere bureau](https://www.studyrama.com/sites/default/files/inline-images/migrate/35/22985.jpg)
+
 # Zine-zaoui
+*Développeur web React*
 
-developpeur web junior,en formation
+[Accueil](readme.md) - [Projets](projet.md) - [CV]() - [Contact]()
 
-# Mes projets
+## mes projets
 
-|client    |     dates      |technologies    |    lien   |
-|:--------:|:--------------:|:--------------:| :-------: |
-| microsoft|      2022      |   htlm,java    | microsoft |
-|  google  |      2021      |   node.js      | google    |
-| Mme  M   |      2017      |    html,CSS    |   Mme m   |
+| Clients | Dates | Technologies | Lien |
+| ----------- | ----------- | ----------- | ----------- |
+| Microsoft | 2022 | HTML, SASS, Javascript | [Microsoft](https://www.microsoft.com/fr-fr) |
+| Google | 2021 | Node.js | [Google](https://www.google.fr) |
+| Mme Michu | 2017 | HTML, CSS | [Oclock](https://oclock.io/)
 
-
+© 2023 - Zine-zaoui - [Me contacter]()
