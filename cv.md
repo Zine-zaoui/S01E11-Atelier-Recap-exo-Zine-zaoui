@@ -3,7 +3,7 @@
 # Zine-zaoui
 
 *Développeur web en formation*
-[Accueil](README.md) - [Projets](projets.md) - [CV]() - [Contact]()
+[Accueil](README.md) - [Projets](projets.md) - [CV](cv.md) - [Contact]()
 
 ## cv
 
@@ -16,9 +16,22 @@
 zinedine.zaoui@oclock.school
 
 #### Experiences
-*2022 - lorem ipsum
-*2019 - lorem ipsum
-*2017 - lorem ipsum
+
+* lorem ipsum
+* lorem ipsum
+* lorem ipsum
+
+### formation
+
+*2016 - lorem ipsum
+*2015 - lorem ipsum
+*2014 - lorem ipsum
+
+### autres
+
+* 2022 - Permis B
+- 2019 - Escalade
+* 2017 - Randonnée
 
 
 
